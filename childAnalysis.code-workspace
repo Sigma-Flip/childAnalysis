@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../anal/outputs"
+		},
+		{
+			"path": "../../anal/stt"
+		},
+		{
+			"path": "../../anal/visualizer"
+		},
+		{
+			"path": "../../anal/analyzer"
+		}
+	],
+	"settings": {}
+}
