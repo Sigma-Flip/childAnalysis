@@ -1,1 +1,0 @@
-OPENAI key위치 -> model.py (set client메소드에 삽입)
